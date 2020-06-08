@@ -1,0 +1,8 @@
+.node_modules/
+.public/
+.babelrc
+.gitignore
+.model.css
+.package.json
+.webpack.config.js
+yarn-error.log*
